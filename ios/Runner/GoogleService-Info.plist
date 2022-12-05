@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>700164288960-ar6o44ttjr0sgsip3t8o8s930isodort.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.700164288960-ar6o44ttjr0sgsip3t8o8s930isodort</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>700164288960-42qrj80o6omcgd0mrsbq5aof5g0f0guf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5ObZKTWRKYddFmMfM4hYl1y7XukYquTA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>700164288960</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vivek.chatsystem</string>
+	<key>PROJECT_ID</key>
+	<string>fireabasevivek</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fireabasevivek.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:700164288960:ios:35798efd28b5e84f45d825</string>
+</dict>
+</plist>
